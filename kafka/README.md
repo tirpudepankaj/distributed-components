@@ -10,6 +10,7 @@
       - The Zookeepr is distributed co-ordinated service.
 
     - ### Producer
+      - The Producer in Kafka is an application which sends messages to Kafka broker.
 
     - ### Consumer
 
@@ -25,6 +26,7 @@
 
     - ### Partition
        - #### Physical location of message[Stored/Persisted in file system]of a broker.
+       - Partition decides degree of parallesim.
 
     - ### Replication
        - Replication is to achieve redudancy and It's default value is 3

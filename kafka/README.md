@@ -2,7 +2,7 @@
 
  - ## Components 
     - ### Broker/Cluster
-      - It is group of machine connected with each other is called as Cluster. Thee broker is nothing but one single machine of cluster. Ideally the broker count should be greater than 2 as this would be used on distributed system. Using only one broker doesn't make any sense in distributed system.
+      - The cluster is nothing but the group of machine connected with each other. Thee broker is nothing but one single machine of cluster. Ideally the broker count should be greater than 2 as this would be used on distributed system. Using only one broker doesn't make any sense in distributed system.
 
     - ### Zookeeper
     - ### Producer

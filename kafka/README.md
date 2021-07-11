@@ -13,6 +13,7 @@
       - The Producer in Kafka is an application which sends messages to Kafka broker.
 
     - ### Consumer
+      - The Consumer in Kafka is an application which recieved messages from Kafka broker.
 
     - ### Message
        - #### Produce

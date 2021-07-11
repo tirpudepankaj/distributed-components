@@ -24,7 +24,7 @@
        - #### Logical grouping of message.
 
     - ### Partition
-       - #### Physical location of message[Stored/Persisted in file system].
+       - #### Physical location of message[Stored/Persisted in file system]of a broker.
 
     - ### Replication
        - Replication is to achieve redudancy and It's default value is 3

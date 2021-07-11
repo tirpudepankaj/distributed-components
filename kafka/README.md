@@ -18,9 +18,12 @@
     - ### Message
        - #### Produce
          - The message is being produce by Producer, while producing message there some mandatory fields and some optional fields. The mandatory fields are topic-name, partition-id, and actual message[value] while key is optional. The [key] is used to provide some metadata for message. 
+
        - #### Storage
+         - Once message is recieved by Kafka broker then its persisted into the brokers partition area. 
 
        - #### Consume
+         - The message is consume by consumer application. 
 
     - ### Topic
        - #### Logical grouping of message.

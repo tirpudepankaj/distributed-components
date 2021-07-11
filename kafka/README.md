@@ -1,6 +1,6 @@
 # Kafka Fundametals
 
- - Distributed Replicated Commit Logs
+ - ## Distributed Replicated Commit Logs
 
  - ## Components 
     - ### Broker/Cluster

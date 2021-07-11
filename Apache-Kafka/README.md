@@ -32,6 +32,10 @@
        - Physical location of message[Stored/Persisted in file system]of a broker.
        - Partition decides degree of parallelism.
        - Ordering of message is it at partition level and which is achieve using offset.
+       - There are 3 ways to identify the partition while sending the message to Kafka broker.
+          - Mentioned the partition id in message itself.
+          - Use key-hash to calculated the partition [hash(key) % partiion_number] -> (0, partition_number-1).
+          - Default - Round Robin fashion. 
 
     - ### Replication
        - Replication is to achieve redudancy and It's default value is 3

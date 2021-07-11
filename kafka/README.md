@@ -25,7 +25,7 @@
        - #### Logical grouping of message.
 
     - ### Partition
-       - #### Physical location of message[Stored/Persisted in file system]of a broker.
+       - Physical location of message[Stored/Persisted in file system]of a broker.
        - Partition decides degree of parallelism.
        - Ordering of message is it at partition level and which is achieve using offset.
 

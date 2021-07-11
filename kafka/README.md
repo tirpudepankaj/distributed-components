@@ -12,9 +12,12 @@
     - ### Consumer
 
     - ### Message
-
        - #### Produce
-
+         - The message is being produce by Producer, while producing message there some mandatory fields and some optional fields. The mandatory fields are topic-name, partition-id, and actual message[value] while key is optional. The [key] is used to provide some metadata for message. 
        - #### Storage
 
-       - #### Consume  
+       - #### Consume
+
+    - ### Topic
+
+    - ### Partition

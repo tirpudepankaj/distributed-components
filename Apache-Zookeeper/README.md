@@ -1,1 +1,1 @@
-### Distributed Co-ordinating Service
+### A Distributed Coordination Service for Distributed Applications

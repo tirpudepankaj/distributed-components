@@ -23,3 +23,4 @@
     - ### Partition
 
     - ### Replication
+       - Replication is to achieve redudancy and It's default value is 3

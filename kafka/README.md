@@ -26,8 +26,8 @@
 
     - ### Partition
        - #### Physical location of message[Stored/Persisted in file system]of a broker.
-       - Partition decides degree of parallesim.
-       - Ordering of message it at partition level and which is achieve using offset
+       - Partition decides degree of parallelism.
+       - Ordering of message is it at partition level and which is achieve using offset.
 
     - ### Replication
        - Replication is to achieve redudancy and It's default value is 3
